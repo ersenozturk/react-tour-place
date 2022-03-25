@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 # Project: Tour Places
+check my page from thıs lınk >>>> https://ersenozturk.github.io/react-tour-place
 
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
+=======
 ## Description
 
 Project aims to create a tour places app.
@@ -61,10 +63,6 @@ Build a Tour Project App using ReactJS.
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
-=======
-check my page from thıs lınk >>>> https://ersenozturk.github.io/react-tour-place
->>>>>>> e92f94e5d66d3c31d5fc65cfffff4bd93c726c87
 
 # Getting Started with Create React App
 
