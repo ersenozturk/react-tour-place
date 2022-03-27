@@ -1,5 +1,5 @@
 # Project: Tour Places
-check my page from thıs lınk >>>> https://ersenozturk.github.io/react-tour-place
+check my page from this link >>>> https://ersenozturk.github.io/react-tour-place
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 =======
